@@ -1,1 +1,3 @@
 Name : aomsin
+Address : bangkok
+phoneNumber: 0988993238
